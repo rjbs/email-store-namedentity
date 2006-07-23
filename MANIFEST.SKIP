@@ -1,0 +1,12 @@
+\.svn
+\.bak
+~$
+\.tar\.gz$
+\.mail
+MANIFEST.SKIP
+_build
+blib
+Build$
+^TODO$
+t/test.db
+entest
