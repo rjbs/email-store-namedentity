@@ -7,3 +7,4 @@ Changes
 lib/Email/Store/NamedEntity.pm
 t/01.t
 t/test.mail
+LICENSE
